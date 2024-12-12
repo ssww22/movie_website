@@ -49,4 +49,12 @@ php
 #6. 개발 언어
 JavaScrip, HTML, CSS3 등...
 
+-----------
+#7. 참고
+
+CGV : <https://www.cgv.co.kr/>
+
+롯데시네마 : <https://www.lottecinema.co.kr/NLCHS>
+
+
    
